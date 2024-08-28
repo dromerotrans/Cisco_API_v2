@@ -1,2 +1,2 @@
-[CAMPUS]
-hostname.my.domain.com
+[Campus]
+192.168.112.1 ansible_user=admin ansible_password=Fr33men2o16!*
